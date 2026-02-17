@@ -1,52 +1,63 @@
 <h1 align="center">Wojciech Olszak</h1>
 
 <p align="center">
-  <strong>iOS Developer &amp; Full-Stack Engineer</strong><br/>
-  Building production-ready mobile and web applications with clean architecture.
+  <strong>iOS & Web Developer</strong><br/>
+  SwiftUI | HTML/CSS/JS | AI-Assisted Development
 </p>
 
 <p align="center">
+  <a href="https://selter2001.github.io/useme/web/"><img src="https://img.shields.io/badge/Portfolio-GitHub_Pages-22C55E?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/wojciech-olszak/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://useme.com/pl/roles/contractor/wojciech-olszak,609067/"><img src="https://img.shields.io/badge/Useme-Hire_Me-22C55E?style=for-the-badge" alt="Useme"/></a>
   <a href="mailto:wojtekolszak12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/selter2001"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <img src="https://img.shields.io/badge/Location-Poland_🇵🇱-blue?style=for-the-badge" alt="Poland"/>
 </p>
 
 ---
 
 ### About Me
 
-I'm a software developer based in Poland, focused on **iOS development** with Swift/SwiftUI and **full-stack web applications** with React and TypeScript. I build tools that solve real-world problems — from agricultural calculators to cloud-synced audio recorders.
+iOS & Web Developer based in Poland. I build native iOS apps with **SwiftUI** and responsive websites with **HTML, CSS & JavaScript**. I use **AI-assisted development** (Claude Code) to deliver projects faster without compromising quality.
 
-I care about clean code, thoughtful architecture (MVVM, MVC), and professional documentation just as much as the code itself.
+My portfolio includes 4 complete demo projects — each one is a working product with source code, not a mockup. Check them out live on [GitHub Pages](https://selter2001.github.io/useme/web/).
 
 ---
 
 ### Tech Stack
 
-**Mobile Development**
+**iOS Development**
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftData](https://img.shields.io/badge/SwiftData-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Swift Charts](https://img.shields.io/badge/Swift_Charts-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-![AVFoundation](https://img.shields.io/badge/AVFoundation-000000?style=for-the-badge&logo=apple&logoColor=white)
-![SceneKit](https://img.shields.io/badge/SceneKit-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-**Web & Backend**
+**Web Development**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Languages & Tools**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+
+**Tools & Infrastructure**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Google APIs](https://img.shields.io/badge/Google_APIs-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-AI-cc785c?style=for-the-badge)
+
+---
+
+### Portfolio — Live Demos
+
+| Project | Description | Live Demo | Stack |
+|---------|-------------|-----------|-------|
+| **Portfolio Website** | Responsive dark-theme portfolio with mobile navigation | [Demo](https://selter2001.github.io/useme/web/) | HTML, CSS, JS |
+| **Landing Page** | Service page with contact section and responsive layout | [Demo](https://selter2001.github.io/useme/landing/) | HTML, CSS, JS |
+| **Habit Tracker** | iOS app + web demo for tracking daily habits with charts | [Demo](https://selter2001.github.io/useme/web/habit-tracker/) | SwiftUI, Chart.js |
+| **Expense Calculator** | iOS app + web demo for budget management with statistics | [Demo](https://selter2001.github.io/useme/web/expense-calculator/) | SwiftUI, Chart.js |
+
+> Source code: [selter2001/useme](https://github.com/selter2001/useme)
 
 ---
 
@@ -58,24 +69,7 @@ I care about clean code, thoughtful architecture (MVVM, MVC), and professional d
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selter2001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=selter2001&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
 ---
 
-### Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [AutoNotatka](https://github.com/selter2001/AutoNotatka) | iOS audio recorder with Google Drive sync | Swift, SwiftUI, Google APIs |
-| [kalkulator-oprysku](https://github.com/selter2001/kalkulator-oprysku) | Agricultural spray calculator for iOS | Swift, SwiftUI, MVVM |
-| [kalkulator-prac-wykonczeniowych](https://github.com/selter2001/kalkulator-prac-wykonczeniowych) | Renovation cost calculator web app | React, TypeScript, Supabase |
-| [scicalc](https://github.com/selter2001/scicalc) | Desktop scientific calculator | Python, CustomTkinter, MVC |
-| [ios-kalkulator](https://github.com/selter2001/ios-kalkulator) | Dual-mode iOS calculator with BigNumber | Swift, SwiftUI, SceneKit |
-| [calculator-app](https://github.com/selter2001/calculator-app) | Terminal calculator with BigInt | TypeScript, Node.js |
-| [kalkulator-geometryczny](https://github.com/selter2001/kalkulator-geometryczny) | Geometry calculator with visualization | Python, matplotlib |
-
----
-
-<p align="center"><i>Clean code. Professional documentation. Real-world solutions.</i></p>
+<p align="center"><i>Open to freelance work and full-time opportunities.</i></p>
+<p align="center"><a href="https://useme.com/pl/roles/contractor/wojciech-olszak,609067/">Hire me on Useme</a> · <a href="https://www.linkedin.com/in/wojciech-olszak/">Connect on LinkedIn</a></p>
